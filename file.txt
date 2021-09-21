@@ -1,2 +1,11 @@
 Le code des toilettes en cas d'urgence est "997987768765753313467888766555567
+<<<<<<< HEAD
 "Lorsqu'un apprenant a fini sa tâche avant les autres, il est autorisé à aller masser les épaules des autres apprenants afin de les encourager."
+=======
+
+
+
+'apprenant n'est pas un vase qu'on remplit (sauf de café et de bière), aussi doit-il se maintenir dans une posture d'apprentissage active.
+
+En cas de retard : apporter une bouteille de Chardonnay (on ne vise personne...)"
+>>>>>>> 2322cb946c68fadcc2c268fc0929324094580e9b
